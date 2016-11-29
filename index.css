@@ -1,0 +1,56 @@
+#first{
+<<<<<<< HEAD
+			text-align: center; 
+			background-color: pink;
+			margin-top: 10px; 
+		}
+
+.searchForm {
+	text-align: center;
+}
+
+#welll{
+	width: 750px;
+	height: 500px;
+	margin: auto;
+}
+
+#cont{
+	background-color: black;
+}
+	
+#danger, #danger1{
+	font-family: 'Ravi Prakash', cursive;
+	font-size: 30px;
+	color: #ff3390;
+}
+
+#button1{
+	color: #33ffe3;
+}
+
+#abc{
+	background: url('img/back3.jpg') top center no-repeat;
+}
+
+#text1{
+	font-family: 'Lobster', cursive;
+	font-size: 50px;
+	color: #33ffe3;
+}
+
+.well{
+	background-color: RGB(20, 20, 122);
+}
+
+#foter{
+	marker-end: 10px;
+	font-family: 'Pacifico', cursive;
+	font-size: 20.5px;
+}
+
+=======
+			text-align: center;  
+		}
+
+>>>>>>> 12839c10197c774fd12560320c769416dbe17218
